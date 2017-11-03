@@ -1,0 +1,8 @@
+pip-tools
+setuptools
+wheel
+twine
+sphinx
+sphinx_rtd_theme
+pytest
+coverage

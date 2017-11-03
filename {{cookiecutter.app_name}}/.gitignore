@@ -3,9 +3,8 @@
 # C extensions
 *.so
 
-# pycharm
-.idea/
-.idea
+# Vim swap files
+*.swp
 
 # Packages
 *.egg
